@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
+
+header {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 1em;
+    margin-top: 10px;
+}
+
+main {
+    background-color: darkblue;
+    padding: 1em;
+    margin-top: 10px;
+}
+
+p {
+    color: whitesmoke;
+}
